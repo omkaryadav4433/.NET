@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\studentmanagement\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\ASUS\source\repos\studentmanagement\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\ASUS\source\repos\studentmanagement\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\ASUS\source\repos\studentmanagement\DAL\bin\Debug\net7.0\BOL.dll
+C:\Users\ASUS\source\repos\studentmanagement\DAL\bin\Debug\net7.0\BOL.pdb
+C:\Users\ASUS\source\repos\studentmanagement\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\studentmanagement\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\studentmanagement\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\studentmanagement\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\studentmanagement\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\studentmanagement\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+C:\Users\ASUS\source\repos\studentmanagement\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\ASUS\source\repos\studentmanagement\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\ASUS\source\repos\studentmanagement\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\ASUS\source\repos\studentmanagement\DAL\obj\Debug\net7.0\ref\DAL.dll
